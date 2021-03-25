@@ -1,0 +1,25 @@
+body {
+    text-align: left;
+    background-image: url("https://nataliamilicevic.avenuehq.com/wp-content/uploads/sites/2029/2021/01/samantha-gades-BlIhVfXbi9s-unsplash-scaled.jpg") ;
+    background-size: 1250px;
+    font-size: small;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+   
+
+}
+
+
+#title {
+
+    padding: 20px;
+    text-align: center;
+    background: lightcoral;
+    margin-left: 490px;
+    margin-right: 490px;
+    
+    color: white;
+    font-size: 30px;
+    border-style: inset; 
+   
+}
